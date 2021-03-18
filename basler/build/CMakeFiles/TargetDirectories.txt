@@ -1,0 +1,4 @@
+/home/ubuntu/basler/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/basler/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/basler/build/CMakeFiles/serverbasler.dir
+/home/ubuntu/basler/build/CMakeFiles/serverbasler_autogen.dir
